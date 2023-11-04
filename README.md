@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jewel1992
-- 👀 I’m interested in becoming a Junior web developer.
-- 🌱 I’m currently learning ... Javascript & React.
+- 👀 I’m interested in becoming a Test Engineer
+- 🌱 I’m currently learning ... QA Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Jewelalli@aol.com 
 
